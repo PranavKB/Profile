@@ -1,7 +1,7 @@
 # 📂 Full Profile — B Pranav Kumar
 
 Welcome to my full professional and academic profile.  
-This repository contains detailed information about my **projects, work experience, academic background, achievements, and positions of responsibility**.
+This repository contains detailed information about my **projects, work experience, academic background, scholastic achievements, and positions of responsibility**.
 
 ---
 
@@ -104,7 +104,7 @@ This repository contains detailed information about my **projects, work experien
 ---
 
 <details>
-<summary><h2>🏅 Achievements</h2></summary>
+<summary><h2>🏅 Scholastic Achievements</h2></summary>
 
 - **GATE 2017:** 98.48 percentile  
 - **JEE Mains 2013:** 95.55 percentile  
