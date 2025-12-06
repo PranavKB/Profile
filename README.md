@@ -6,6 +6,41 @@ This repository contains detailed information about my **projects, work experien
 ---
 
 <details>
+<summary><h2>💼 Professional Summary</h2></summary>
+
+- Built and shipped production-ready features across monolith and microservices architectures.  
+- Experience in **React, TypeScript, Java, Spring Boot, Node.js**.  
+- Strong foundation in system design, scalability, and clean code.  
+- Transitioned from biomedical engineering into full-stack development.  
+- Actively learning and building modern web applications.
+
+</details>
+
+---
+
+<details>
+<summary><h2>🛠 Technical Skills</h2></summary>
+
+### **Languages & Frameworks**
+- JavaScript / TypeScript  
+- Node.js, Express.js  
+- React.js, Redux, AngularJS  
+- Java, Spring Boot  
+- HTML, CSS  
+- MySQL, MongoDB  
+
+### **Tools & Technologies**
+- REST APIs, Postman  
+- Git / GitHub  
+- Maven, Agile  
+- Nginx  
+- Jest Testing  
+
+</details>
+
+---
+
+<details>
 <summary><h2>🚀 Project Experience (IoT Smart Mobility)</h2></summary>
 
 ### **Full Stack Developer — Epick Bikes (Intern)**  
